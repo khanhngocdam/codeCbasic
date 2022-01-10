@@ -1,0 +1,14 @@
+Bai hat so 1#*#NVA#*#NSZ#*#1990
+Bai hat so 2#*#NVB#*#NSY#*#1980
+Bai hat so 3#*#NVC#*#NSX#*#1988
+Bai ca khong ten 1#*#TVC#*#STA#*2000
+Bai ca khong ten 2#*#TVD#*#STB#*2002
+Bai ca khong ten 3#*#TVE#*#STC#*2020
+Chuyen cua mua dong#*#Ha Anh Tuan#*#Pham Toan Thang#*#2014
+Co chac yeu la day#*#Son Tung MTP#*#Tung Nui#*#2020
+Co chang trai viet len cay#*#Phan Manh Quynh#*#Phan Manh Quynh#*#2017
+Giac mo co that#*#Orange#*#Le Quyen#*#2020
+Mot ngay#*#Tuan#*#Minh Anh#*#2021
+Nguoi con gai ta thuong#*#Ha Anh Tuan#*#Pham Toan Thang#*#2016
+Nguoi la cuoi con duong#*#LK#*#JS#*#2011
+Ta la cua nhau#*#Dong Nhi#*#Ong Cao Thang#*#2015
